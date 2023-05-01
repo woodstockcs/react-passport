@@ -6,6 +6,8 @@
   - dummy image from pexels. be sure to get the image url, not the page url
   - `create-react-app` needs a little clean-up (extra files, default text)
   - some minor version deltas
+- v0.1.2 = main page
+  - 6:36 - 14:17
 
 ## source
 
