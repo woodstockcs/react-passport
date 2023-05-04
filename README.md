@@ -22,6 +22,10 @@
 
   - 17:43 - 28:07
 
+- v0.2.1 = super basic router
+
+  - 28:07 - 31:02
+
 ## source
 
 https://www.youtube.com/watch?v=7K9kDrtc4S8
