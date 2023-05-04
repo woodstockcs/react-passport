@@ -26,6 +26,10 @@
 
   - 28:07 - 31:02
 
+- v0.2.2 = show posts only after login
+
+  - 31:02 - 33:18
+
 ## source
 
 https://www.youtube.com/watch?v=7K9kDrtc4S8
