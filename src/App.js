@@ -6,11 +6,11 @@ import Login from "./pages/Login";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
 const App = () => {
-  const user = false;
+  const user = true;
   return (
     <BrowserRouter>
       <div>
-        <Navbar />
+        <Navbar user={user} />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route

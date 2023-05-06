@@ -30,6 +30,10 @@
 
   - 31:02 - 33:18
 
+- v0.2.3 = add links
+
+  - 33:18 - 39:18
+
 ## source
 
 https://www.youtube.com/watch?v=7K9kDrtc4S8
